@@ -1,0 +1,15 @@
+/* styles.css */
+
+main {
+    text-align: center; /* Centra los elementos */
+}
+
+.parche {
+    margin: 100px auto; /* Centra los elementos horizontalmente y agrega espacio entre ellos */
+}
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('Picture1.jpg');
+    background-size: cover; /* Para asegurarse de que la imagen cubra todo el fondo */
+    background-position: center; /* Para centrar la imagen */
+}
